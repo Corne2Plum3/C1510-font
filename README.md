@@ -35,7 +35,7 @@ With FontForge, open the `.sfd` files, then export the font as TTF with the foll
 ### Updating the preview images
 
 > [!NOTE]
-> This is based on my font [Giphurs](https://github.com/Corne2Plum3/Giphurs).
+> The image previews are based on my font [Giphurs](https://github.com/Corne2Plum3/Giphurs).
 
 > [!WARNING]
 > This should be done on a commit with no other changes, and right after modifying the font binaries.
