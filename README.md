@@ -25,7 +25,7 @@ I don't plan to continue working on the font, I think the best should be startin
 
 ### Building the font
 
-With FontForge, open the `.sfd` files, then export the font as TTF with the following options _(too lazy too translate to english)_:
+With FontForge, open the `.sfd` files, then export the font as TTF with the following options _(too lazy to translate to english)_:
 
 ![image](img/fontforge_export_options.png)
 
